@@ -71,7 +71,7 @@ html {
     line-height: 1.8;
     background-image: 
     linear-gradient(rgba(255, 255, 255, 0.5), rgb(255, 255, 255)), 
-    url(./images/sergi-kabrera-2xU7rYxsTiM-unsplash.jpg);
+    url("./images/sergi-kabrera-2xU7rYxsTiM-unsplash-2000x1200.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -425,7 +425,7 @@ html {
 .middle {
     background-image: 
     linear-gradient(rgba(0, 0, 0, 0) 55%, rgba(0, 0, 0, 0.9) 38%), 
-    url("./images/Moonlight-keycaps.webp");
+    url("./images/Blue-gradient.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -451,7 +451,7 @@ html {
     justify-content: center;
     background-image: 
     linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), 
-    url("./images/Moonlight-keycaps.webp");
+    url("./images/Blue-gradient.webp");
 }
 
 .right:hover{
